@@ -1,0 +1,34 @@
+[back](../README.md)
+
+# operators in dart :
+1) and , or , not , xor 
+2) and ==> &
+3) or  ==> |
+4) xor ==> ^
+5) not ==> ~ 
+6) is and is not ==>    to ask what type have this variable
+   
+------------------------------------
+#  important arthmetic operation to know .
+1. x= 5 
+2. x+=3
+3. x-=2
+4. x*=2
+5. x/=2
+  
+
+# types in dart and changes :
+1) var : var a =
+      10; // even if the var is similar to the dynamic , when you assign specifec datatype
+   its  convert to this type , and you can't change it to another type
+  
+2)  dynamic :  dynamic type is flixible you can change the type 
+  wiithout any error
+
+3) final : final c = 10; // the last value to the c is 10 and you can't
+  //change the value
+
+
+4) const: const d = 10; // value can't change  in constant
+   
+

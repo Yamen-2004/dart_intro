@@ -5,3 +5,4 @@
 | class | title | click here | 
 |-|-|-| 
 |1|datatybe|[click here](./classes/class.md)|
+|2|operator|[click here](./classes/class2)|
