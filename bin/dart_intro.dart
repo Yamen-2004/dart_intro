@@ -41,5 +41,34 @@ and still a comment in this line */
   }
   if (my_budget >= s20) {
     print("buyyyyyy");
+    print("hello");
   }
+  //================================================================
+// is and is not
+  print("-" * 40);
+  print("is ");
+  print(5.6 is! int);
+  // & and | or
+  print("_____" * 14);
+  print(true && true);
+  print(true || false);
+  print(false || false);
+  // ^ xor
+  print("*" * 40);
+  print(true ^ false);
+  print(true ^ true);
+  print(false ^ false);
+  print(false ^ true);
+  var x;
+  print(x); // null
+  print(x ??= 5); // 5
+  // if x don't have a value give it the value I assign and if x has a value  keep it
+  print(x += 2); // the result = 7
+  print(x -= 2); //the result = 5
+  print(x *= 2); // the result will  be 10
+  print(x /=
+      2); // the result will  be 5.0  after divide , the number become decimal cause the divide operation must be double
+  /*-----------------------------------------------------------------*/
+  
+
 }
